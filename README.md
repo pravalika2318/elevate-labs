@@ -9,3 +9,10 @@ this repository contains the basic tasks of the data cleaning and preprocessing
 * counting the values of the sales according to category
 * droping the duplictae values of the order id and accessing them
   
+# tools used 
+python
+jupiter notebook
+excel
+
+#libraries used
+imported pandas as pd to Import datasets 
